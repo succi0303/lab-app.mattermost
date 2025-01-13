@@ -49,6 +49,7 @@ services:
     env_file: stack.env
 
 volumes:
+  config:
   db_data:
   app_data:
   logs:
