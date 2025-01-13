@@ -53,6 +53,7 @@ volumes:
   db_data:
   app_data:
   logs:
+  plugins:
   client_plugins:
   bleve-indexes:
   
